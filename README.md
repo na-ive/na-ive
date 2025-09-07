@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naufal! A digital explorer building and learning in tech.</h1>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=na-ive&show_icons=true&locale=en&layout=compact" alt="na-ive" /></p>
+<h2 align="center">Hi 👋, I'm Naufal! A digital explorer building and learning in tech.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +29,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="60"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="60"/></a>
 
-
 <h4 align="left">Software</h4>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" height="60"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" height="60"/></a>
@@ -41,4 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="60"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="60"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="60" alt="visual-studio-code"></a>
-
+<br><br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=na-ive&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="na-ive" />
+</p>
