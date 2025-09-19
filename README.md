@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Naufal! A digital explorer building and learning in tech.</h1>
+<h2 align="center">Hi 👋, I'm Naufal! Junior Web & Mobile Developer (always has been)</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,10 +12,12 @@
 <h4 align="left">Languages</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="60"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="60"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" height="60"/></a>
 
-<h4 align="left">Frontend Development</h4>
+<h4 align="left">Web Development</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="60"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" height="60"/></a>
+<a href="http://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="60"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="60"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="60"/></a>
 
