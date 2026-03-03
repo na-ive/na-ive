@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Naufal! Junior Web & Mobile Developer (always has been)</h1>
+<h2 align="center">Hi 👋, I'm Naufal! Learning as I go and sharing what I build.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +41,3 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="60"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="60" alt="visual-studio-code"></a>
 <br><br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=na-ive&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="na-ive" />
-</p>
